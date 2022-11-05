@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 ## **Installation**
 ----------------------------------------
 ```bash
-git clone [https://github.com/cengizcmataraci/kodluyoruzilkrepo.git](https://github.com/krmyldrmm/kodluyoruzilkrepo.git)
+git clone https://github.com/krmyldrmm/kodluyoruzilkrepo.git
 ``` 
 ## **Usage**
 -----------------------------------------
